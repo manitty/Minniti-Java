@@ -1,0 +1,20 @@
+2014 Employee Reed,Matt 2000 
+2014 Salesman Minniti,Paul 3000 1200000
+2014 Executive Riley,Nick 5000 45
+2014 Employee McGraw,Brigid 2000 
+2014 Salesman Bell,Daniel 3000 900000
+2014 Executive Green,Katie 5000 55
+2014 Employee Burns,Charles 2000 
+2014 Salesman Quinn,John 3000 100000
+2014 Executive Kennedy,Todd 5000 65
+2014 Employee Patrick,Matt 2000 
+2015 Employee Reed,Matt 3000 
+2015 Salesman Minniti,Paul 4000 1100000
+2015 Executive Riley,Nick 6000 51
+2015 Employee McGraw,Brigid 3000 
+2015 Salesman Bell,Daniel 4000 850000
+2015 Executive Green,Katie 6000 49
+2015 Employee Burns,Charles 3000 
+2015 Salesman Quinn,John 4000 250000
+2015 Executive Kennedy,Todd 6000 35
+2015 Employee Patrick,Matt 3000 
